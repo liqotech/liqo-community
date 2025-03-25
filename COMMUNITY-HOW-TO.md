@@ -1,4 +1,4 @@
-# Liqo community best practices
+# Liqo Community How-To
 
 **Community meetings** are set up either periodically (e.g., once every 4-6 weeks) or when the discussion on a specific topic is needed (e.g., ideas for future features, new deployment scenarios and/or use cases, new collaboration opportunities, etc.).
 In case you would like to propose a new feature, we suggest to open a _feature request_ on the [Liqo GitHub page](https://github.com/liqotech/liqo/issues) in order to describe your idea/request and allow the members of the community to think about your proposal in advance.
