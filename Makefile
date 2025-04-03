@@ -1,5 +1,5 @@
 lint: markdownlint
-	@find . -type f -name '*.md' -exec $(MARKDOWNLINT) {} +
+	@$(MARKDOWNLINT) '**/*.md' -c markdownlint.yml
 
 markdownlint:
 ifeq (, $(shell which markdownlint))
