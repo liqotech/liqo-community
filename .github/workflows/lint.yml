@@ -1,0 +1,20 @@
+name: Linting
+on:
+  pull_request:
+
+jobs:
+  markdownlint:
+    name: Lint markdown files
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v4
+      with:
+        ref: "${{ github.event.pull_request.head.sha }}"
+        repository: ${{github.event.pull_request.head.repo.full_name}}
+        persist-credentials: false
+    - name: Lint markdown files
+      uses: avto-dev/markdown-lint@v1
+      with:
+        config: '.markdownlint.yml'
+        args: '**/*.md'
