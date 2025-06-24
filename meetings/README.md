@@ -25,4 +25,4 @@ Information about our community is available in the [COMMUNITY-HOW-TO.md](../COM
 
 ## Maintainer's meetings
 
-If you are interested in what is being discussed in the maintainer's meeting, you can find the minutes [here.](maintainers/)
+If you are interested in what is being discussed in the maintainer's meeting, you can find the minutes [here](maintainers/).
