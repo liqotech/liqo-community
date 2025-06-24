@@ -15,6 +15,7 @@
 - Plans for the next community meeting
 
 ### Minutes
+
 Given that two of the current maintainers will move to another job soon and it is not yet clear how much time they can dedicate to this project, the question is whether the current list of maintainers is appropriate to serve the requests coming from the community and to drive the future of the Liqo project.
 The consensus is to explore the availability of other active developers to join the maintainers team, in order to increase the capability to move the project forward.
 
