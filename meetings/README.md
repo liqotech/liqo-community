@@ -12,6 +12,7 @@ Monday July 7, 2025, 5:30pm, [Rome time](https://www.timeanddate.com/worldclock/
 - Updates:
   - Network optimizations for hub-and-spoke topologies: network fabric (Santo Calderone)
   - Network optimizations for hub-and-spoke topologies: kubernetes control plane (Gabriele Santi)
+- Date of next meeting  (July 28? Or Sept 1st?)
 - AOB
 
 Connection link: [https://polito-it.zoom.us/j/85819283985?pwd=cXEXDUAefiJvVh9olWqWK5y32vgXJu.1](https://polito-it.zoom.us/j/85819283985?pwd=cXEXDUAefiJvVh9olWqWK5y32vgXJu.1)
