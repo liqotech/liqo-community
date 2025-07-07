@@ -2,12 +2,17 @@
 
 ## Next community meeting
 
-Monday July 7, 2025, 5:30pm, [Central European Time](https://www.timeanddate.com/worldclock/italy/rome) (CET) (GMT+1)
+Monday July 7, 2025, 5:30pm, [Rome time](https://www.timeanddate.com/worldclock/italy/rome) (so that we do not get confused with CET, CEST or anything else we could invent to make even time so complicated)
 
 ### Agenda
 
 - Status of the project
-- Updates: network optimizations for hub-and-spoke topologies
+  - Upcoming bug-fixing minor release
+  - Next (minor) release
+- Updates:
+  - Network optimizations for hub-and-spoke topologies: network fabric (Santo Calderone)
+  - Network optimizations for hub-and-spoke topologies: kubernetes control plane (Gabriele Santi)
+- Date of next meeting  (July 28? Or Sept 1st?)
 - AOB
 
 Connection link: [https://polito-it.zoom.us/j/85819283985?pwd=cXEXDUAefiJvVh9olWqWK5y32vgXJu.1](https://polito-it.zoom.us/j/85819283985?pwd=cXEXDUAefiJvVh9olWqWK5y32vgXJu.1)
