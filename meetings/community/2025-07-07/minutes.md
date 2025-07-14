@@ -33,8 +33,9 @@ Alessandro Olivero speaks: Next minor release 1.1 is expected end of Sept - Oct;
 He describes the scenario and he demonstrates the direct network connection between the two "edge" clusters.
 
 Useful links (for this feature):
-- Controller repo: https://github.com/scal110/foreign_cluster_connector.git
-- CLI repo: https://github.com/scal110/cli-liqo-shortcut.git
+
+- Controller repo: [https://github.com/scal110/foreign_cluster_connector.git](https://github.com/scal110/foreign_cluster_connector.git)
+- CLI repo: [https://github.com/scal110/cli-liqo-shortcut.git](https://github.com/scal110/cli-liqo-shortcut.git)
 
 #### Network optimizations for hub-and-spoke topologies: kubernetes control plane (Gabriele Santi)
 
