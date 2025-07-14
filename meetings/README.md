@@ -2,17 +2,13 @@
 
 ## Next community meeting
 
-Monday July 7, 2025, 5:30pm, [Rome time](https://www.timeanddate.com/worldclock/italy/rome) (so that we do not get confused with CET, CEST or anything else we could invent to make even time so complicated)
+Monday July 28, 2025, 5:30pm, [Rome time](https://www.timeanddate.com/worldclock/italy/rome) (so that we do not get confused with CET, CEST or anything else we could invent to make even time so complicated)
 
 ### Agenda
 
-- Status of the project
-  - Upcoming bug-fixing minor release
-  - Next (minor) release
-- Updates:
-  - Network optimizations for hub-and-spoke topologies: network fabric (Santo Calderone)
-  - Network optimizations for hub-and-spoke topologies: kubernetes control plane (Gabriele Santi)
-- Date of next meeting  (July 28? Or Sept 1st?)
+- Status of the project: patch release 1.0.1
+- Giulio Brazzo: Introducing 1st step of network security in Liqo ([https://github.com/liqotech/liqo/issues/3022](https://github.com/liqotech/liqo/issues/3022))
+- Date of next meeting
 - AOB
 
 Connection link: [https://polito-it.zoom.us/j/85819283985?pwd=cXEXDUAefiJvVh9olWqWK5y32vgXJu.1](https://polito-it.zoom.us/j/85819283985?pwd=cXEXDUAefiJvVh9olWqWK5y32vgXJu.1)
@@ -21,8 +17,9 @@ Connection link: [https://polito-it.zoom.us/j/85819283985?pwd=cXEXDUAefiJvVh9olW
 
 Minutes and documentation are available in the following folders:
 
-- [Meeting minutes](minutes/)
+- [Community meeting minutes](community/)
 - [Public documentation](../docs/)
+- [Youtube playlist with the recording of previous community meetings](https://www.youtube.com/playlist?list=PLpBLVMlFSWOhFqpVX4YVReLA3uk5yaxmb)
 
 ## Community How-to
 
