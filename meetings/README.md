@@ -6,7 +6,8 @@ Monday July 28, 2025, 5:30pm, [Rome time](https://www.timeanddate.com/worldclock
 
 ### Agenda
 
-- TBD
+- Status of the project: patch release 1.0.1
+- Giulio Brazzo: Introducing 1st step of network security in Liqo ([https://github.com/liqotech/liqo/issues/3022](https://github.com/liqotech/liqo/issues/3022))
 - Date of next meeting
 - AOB
 
