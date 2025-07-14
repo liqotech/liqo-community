@@ -19,6 +19,7 @@ Minutes and documentation are available in the following folders:
 
 - [Community meeting minutes](community/)
 - [Public documentation](../docs/)
+- [Youtube playlist with the recording of previous community meetings](https://www.youtube.com/playlist?list=PLpBLVMlFSWOhFqpVX4YVReLA3uk5yaxmb)
 
 ## Community How-to
 
