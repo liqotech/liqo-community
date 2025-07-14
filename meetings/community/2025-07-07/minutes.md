@@ -28,7 +28,7 @@ Alessandro Olivero speaks: Next minor release 1.1 is expected end of Sept - Oct;
 
 ### 2. Technical updates on interesting features
 
-**Network optimizations for hub-and-spoke topologies: network fabric (Santo Calderone)**
+#### Network optimizations for hub-and-spoke topologies: network fabric (Santo Calderone)
 
 He describes the scenario and he demonstrates the direct network connection between the two "edge" clusters.
 
@@ -36,7 +36,7 @@ Useful links (for this feature):
 - Controller repo: https://github.com/scal110/foreign_cluster_connector.git
 - CLI repo: https://github.com/scal110/cli-liqo-shortcut.git
 
-**Network optimizations for hub-and-spoke topologies: kubernetes control plane (Gabriele Santi)**
+#### Network optimizations for hub-and-spoke topologies: kubernetes control plane (Gabriele Santi)
 
 He describes the scenario and he demonstrates how information, in the Kubernetes control plane, can be propagated in the "edge" clusters.
 
@@ -44,8 +44,8 @@ Suggestion from Alessandro Olivero: replace the logic currently in the virtual k
 
 Suggestion from Alessandro Rontani: consider also the case of a "leaf" cluster which has to establish two shortcuts, with two different clusters (e.g., because the two clusters target of the shortcut belong to two different entities).
 
-
 ### 3. Date of next meeting
+
 Consensus for July 28.
 Invite Giulio Brazzo to present the new security features in the upcoming Liqo 1.1.
 
