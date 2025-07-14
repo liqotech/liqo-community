@@ -51,10 +51,5 @@ Invite Giulio Brazzo to present the new security features in the upcoming Liqo 1
 
 ## Resources
 
-Slides:
-
-- [Link to slides or presentation materials]
-
-Recordings:
-
-- [Link to recording if available]
+- Slides: available in the current folder
+- Recordings: [https://youtu.be/0vhrfhrDx94](https://youtu.be/0vhrfhrDx94)
