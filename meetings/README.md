@@ -7,7 +7,8 @@ Monday July 28, 2025, 5:30pm, [Rome time](https://www.timeanddate.com/worldclock
 ### Agenda
 
 - Status of the project: patch release 1.0.1
-- Giulio Brazzo: Introducing 1st step of network security in Liqo ([https://github.com/liqotech/liqo/issues/3022](https://github.com/liqotech/liqo/issues/3022))
+- Introducing 1st step of network security in Liqo ([https://github.com/liqotech/liqo/issues/3022](https://github.com/liqotech/liqo/issues/3022)) (from Giulio Brazzo)
+- Discussing pro/cons about possible implementation choices for network optimizations for hub-and-spoke topologies (kubernetes control plane) (from Gabriele Santi)
 - Date of next meeting
 - AOB
 
