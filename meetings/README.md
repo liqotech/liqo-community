@@ -2,13 +2,11 @@
 
 ## Next community meeting
 
-Monday July 28, 2025, 5:30pm, [Rome time](https://www.timeanddate.com/worldclock/italy/rome) (so that we do not get confused with CET, CEST or anything else we could invent to make even time so complicated)
+Monday September 8th, 2025, 5:30pm, [Rome time](https://www.timeanddate.com/worldclock/italy/rome)
 
 ### Agenda
 
-- Status of the project: patch release 1.0.1
-- Introducing 1st step of network security in Liqo ([https://github.com/liqotech/liqo/issues/3022](https://github.com/liqotech/liqo/issues/3022)) (from Giulio Brazzo)
-- Discussing pro/cons about possible implementation choices for network optimizations for hub-and-spoke topologies (kubernetes control plane) (from Gabriele Santi)
+- New PoC project: cluster autoscaler based on Liqo (from Riccardo Medina)
 - Date of next meeting
 - AOB
 
