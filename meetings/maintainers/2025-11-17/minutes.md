@@ -38,4 +38,3 @@
 ### Pending actions
 
 - Need to update the "roadmap" on Liqo.
-
