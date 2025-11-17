@@ -34,3 +34,8 @@
 
 - (Fulvio) Send invite for next "un-unstructured" community meeting
 - (FrancescoC) Fix Liqo CI/CD
+
+### Pending actions
+
+- Need to update the "roadmap" on Liqo.
+
