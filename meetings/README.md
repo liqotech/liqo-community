@@ -2,13 +2,11 @@
 
 ## Next community meeting
 
-Monday September 15th, 2025, 5:30pm, [Rome time](https://www.timeanddate.com/worldclock/italy/rome)
+Monday **November 24th, 2025**, 5:30pm, [Rome time](https://www.timeanddate.com/worldclock/italy/rome).
 
 ### Agenda
 
-- New PoC project: cluster autoscaler based on Liqo (from Riccardo Medina)
-- Date of next meeting
-- AOB
+- Open Agenda
 
 Connection link: [https://polito-it.zoom.us/j/85819283985?pwd=cXEXDUAefiJvVh9olWqWK5y32vgXJu.1](https://polito-it.zoom.us/j/85819283985?pwd=cXEXDUAefiJvVh9olWqWK5y32vgXJu.1)
 
