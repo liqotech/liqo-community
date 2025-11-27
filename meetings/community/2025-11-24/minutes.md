@@ -23,7 +23,8 @@ Hence, we summarize here what has been discussed.
 
 - Discussion why finalizers are not used in the gateways. **Answer**: Because there can be some racing conditions when the gateway pod is deleted, and some resources are not removed correctly.
 [PR #2994](https://github.com/liqotech/liqo/pull/2994) was a try to solve this issue, but for lack of time this code was never finalized properly. Volunteers are welcome here.
-- Riccardo presented his [PR #3144](https://github.com/liqotech/liqo/pull/3144): it adds a new field for filtering traffic, which decreases the overhead when a lot of IP addresses are involved in the filter.
+- Riccardo presented his [PR #3155](https://github.com/liqotech/liqo/pull/3155): it adds support for _named sets_ for traffic filtering, which decreases the overhead when a lot of IP addresses are involved in the filter.
+- Riccardo presented also his [PR #3144](https://github.com/liqotech/liqo/pull/3144), which allows to filter by connection tracking state.
 **Comment**: all good; Liqo will finalize version 1.0.2 soon, then it will merge security features ([PR #2966](https://github.com/liqotech/liqo/pull/2966)), and then this PR.
 This means that this patch will be available in the upcoming Liqo 1.1.
 - Reporting an apparent pod-to-pod connectivity issue with Calico, thanks to a testing tool that he made in order to check whether security policies are working properly in a Liqo-based cluster.
