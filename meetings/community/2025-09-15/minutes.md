@@ -27,7 +27,7 @@ This allow the CA to support also resource-constrained environtment, e.g., on-pr
 
 The full presentation is available in the current repository.
 
-The project source is available at https://github.com/rmedina97/liqo-autoscaling-system.
+The project source is available at [https://github.com/rmedina97/liqo-autoscaling-system](https://github.com/rmedina97/liqo-autoscaling-system).
 
 ### 3. AOB
 
@@ -41,4 +41,4 @@ Consensus for mid-October, no precise date defined yet.
 ### Resources
 
 - Slides: available in the current folder
-- Recordings: https://youtu.be/RwHliVlgjyI
+- Recordings: [https://youtu.be/RwHliVlgjyI](https://youtu.be/RwHliVlgjyI)

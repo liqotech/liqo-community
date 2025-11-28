@@ -39,4 +39,4 @@ Invite Riccardo Medina to present his work on the cluster autoscaler based on Li
 ## Resources
 
 - Slides: available in the current folder
-- Recordings: https://youtu.be/Dw3OeymWpjo
+- Recordings: [https://youtu.be/Dw3OeymWpjo](https://youtu.be/Dw3OeymWpjo)
