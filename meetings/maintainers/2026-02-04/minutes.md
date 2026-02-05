@@ -6,6 +6,7 @@
 - **Time:** 17:30 - 18:30 (CEST)
 
 ## Participants
+
 - Alessandro Olivero
 - Claudio Lorina
 - Francesco Cheinasso
@@ -20,7 +21,7 @@
 ## Minutes
 
 - New release: decided to go for a new release (1.1), although the number of new features are limited. It would include also the bug fixes merged so far, particularly the one about dropped packets with Cilium dataplane v2 in Google.
-- Review of all the open PR, selected which ones should be merged in 1.1. Mantainers decided also who will be in charge of finalizing each PR. 
+- Review of all the open PR, selected which ones should be merged in 1.1. Mantainers decided also who will be in charge of finalizing each PR.
 - Decided to meet again in one week in order to review the status of the PRs, and finalize the release.
 - Consensus about documenting better the PRs proposed by maintainers. Currently, many PRs have a very short description, saying what the PR is about, but missing to describe _why_ that PR was needed (e.g., [PR #3186](https://github.com/liqotech/liqo/pull/3186)).
 - The definition of the _Roadmap_ is becoming a critical issue. Discussion postponed to next meeting, but consensus about listing the features we would like to introduce, without strict dates.
