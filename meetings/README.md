@@ -2,7 +2,7 @@
 
 ## Next community meeting
 
-Monday **December 15th, 2025**, 5:30pm, [Rome time](https://www.timeanddate.com/worldclock/italy/rome).
+**To be decided**, [Rome time](https://www.timeanddate.com/worldclock/italy/rome).
 
 ### Agenda
 
