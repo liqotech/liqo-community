@@ -36,4 +36,8 @@ This proposal is fully compatible with current Linux kernels (does not require k
 - support for enhanced telemetry service which reports whether this feature is used or not
 
 The meeting discussed extensively the proposal, and the maintainers gave several suggestions to finalize the work, which is currently in a PoC state.
+
+## Resources
+
+Slides are available in the current folder.
 All the people involved agreed to continue the discussion on GitHub (on [Issue @3079](https://github.com/liqotech/liqo/issues/3079)), and to split the PoC in multiple, discrete patches, in order to make the changes, and the corresponding code review, more manageable.
